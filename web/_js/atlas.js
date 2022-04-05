@@ -226,8 +226,8 @@ var atlas = [
 {"id":176,"name": "Interlingue", "description": "Flag of Interlingue, an IAL to communicate between Western European languages.", "website": "https://occidental-lang.com", "subreddit": "/r/interlingue", "center": [ 768.5, 328.5 ], "path": [ [ 765.5, 326.5 ], [ 770.5, 326.5 ], [ 770.5, 329.5 ], [ 765.5, 329.5 ] ] },
 {"id":177, "name": "Viossa", "description": "Flag of the conpidgin Viossa.", "website": "", "subreddit": "/r/viossa", "center": [ 775.5, 296.5 ], "path": [ [ 769.5, 290.5 ], [ 780.5, 290.5 ], [ 780.5, 301.5 ], [ 769.5, 301.5 ] ] },
 {"id":178, "name": "Lojban", "description": "Flag of Lojban", "website": "https://lojban.org", "subreddit": "/r/lojban", "center": [ 760.5, 328.5 ], "path": [ [ 763.5, 326.5 ], [ 757.5, 326.5 ], [ 757.5, 330.5 ], [ 763.5, 330.5 ] ] },
+{"id": 179,  "name": "Romanian Flag","description": "The flag of Romania is tricolor; the colors are arranged vertically in the following order from the flagpole: blue, yellow, red\".[1] The flag has a width-length ratio of 2:3; the proportions, shades of color as well as the flag protocol were established by law in 1994","website": "https://en.wikipedia.org/wiki/Flag_of_Romania","subreddit": "r/romania","center": [730.5,168.5],"path": [[634.5,138.5],635.5,199.5],[825.5,197.5],[826.5,137.5]]}, 		
 
-];
 
 //console.log("There are "+atlas.length+" entries in the Atlas.");
 
